@@ -1,0 +1,17 @@
+# Запрещаем индексацию для всех роботов, кроме Яндекса и Google:
+User-agent: *
+Disallow: /
+
+# Задаем отдельные правила для робота Яндекса
+User-agent: Yandex	#
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/
+Clean-param: utm&from
+Allow: /feed/turbo/
+
+# Задаем отдельные правила для робота Google
+User-agent: Googlebot	#
+Disallow: /*?utm*
+Disallow: /*&utm*
+Disallow: /*?from*
+Disallow: /*&from*

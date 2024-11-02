@@ -1,0 +1,777 @@
+# Translation of Themes - Understrap in Russian
+# This file is distributed under the same license as the Themes - Understrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-18 11:34:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Understrap\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The renowned WordPress starter theme framework that combined Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites."
+msgstr "Знаменитый фреймворк для стартовых тем WordPress, сочетающий в себе Underscores и Bootstrap. Нам доверяют более 100 000 разработчиков для создания на заказ сайтов WordPress."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Understrap"
+msgstr "UnderStrap"
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr "Добавить"
+
+#: woocommerce/myaccount/form-login.php:98
+msgid "A link to set a new password will be sent to your email address."
+msgstr "Ссылка для установки нового пароля будет отправлена ​​на ваш адрес электронной почты."
+
+#: woocommerce/cart/cart.php:29
+msgid "Thumbnail image"
+msgstr "Изображение миниатюры"
+
+#: woocommerce/cart/cart.php:28
+msgid "Remove item"
+msgstr "Удалить пункт"
+
+#. Template Name of the theme
+msgid "No Title, Full Width Page"
+msgstr "Без заголовка, Страница во всю ширину"
+
+#. translators: %s post title
+#: inc/template-tags.php:136
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#: inc/pagination.php:54
+msgctxt "next set of posts"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: inc/pagination.php:53
+msgctxt "previous set of posts"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:46
+msgid "Close menu"
+msgstr "Закрыть меню"
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:34
+msgid "Open menu"
+msgstr "Открыть меню"
+
+#: inc/customizer.php:154
+msgid "Offcanvas"
+msgstr "Вне экрана"
+
+#: inc/customizer.php:153
+msgid "Collapse"
+msgstr "Свернуть"
+
+#: inc/customizer.php:146
+msgid "Choose between an expanding and collapsing navbar or an offcanvas drawer."
+msgstr "Выберите между расширяющейся и сворачивающейся навигационной панелью или off-canvas."
+
+#: inc/customizer.php:145
+msgid "Responsive Navigation Type"
+msgstr "Адаптированный тип навигации"
+
+#: inc/customizer.php:95
+msgid "Bootstrap 5"
+msgstr "Bootstrap 5"
+
+#: inc/customizer.php:94
+msgid "Bootstrap 4"
+msgstr "Bootstrap 4"
+
+#: inc/customizer.php:89
+msgid "Bootstrap Version"
+msgstr "Версия Bootstrap"
+
+#: woocommerce/myaccount/downloads.php:34 woocommerce/myaccount/orders.php:100
+msgid "Browse products"
+msgstr "Просмотр товаров"
+
+#: sidebar-templates/sidebar-hero.php:38
+msgctxt "carousel control"
+msgid "Next"
+msgstr "Далее"
+
+#: sidebar-templates/sidebar-hero.php:30
+msgctxt "carousel control"
+msgid "Previous"
+msgstr "Назад"
+
+#: searchform.php:23
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: inc/editor.php:72
+msgid "Cite"
+msgstr "Цитировать"
+
+#: inc/editor.php:66
+msgid "Blockquote Footer"
+msgstr "Подвал цитаты"
+
+#: inc/editor.php:60
+msgid "Blockquote"
+msgstr "Цитата"
+
+#: inc/editor.php:56
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/editor.php:50
+msgid "Lead Paragraph"
+msgstr "Заглавный параграф"
+
+#: inc/customizer.php:210
+msgid "Override Understrap's site info located at the footer of the page."
+msgstr "Переопределить информацию о сайте Understrap, расположенную в подвале сайта."
+
+#: inc/customizer.php:209
+msgid "Footer Site Info"
+msgstr "Информация в подвале сайта"
+
+#. translators: %s: author name
+#: author.php:79
+msgid "Posts by %s"
+msgstr "Записи автора %s"
+
+#. translators: %s: author name
+#: author.php:65
+msgid "About %s"
+msgstr "Про %s"
+
+#. translators: %s: author name
+#: author.php:44
+msgctxt "Avatar alt"
+msgid "Profile picture of %s"
+msgstr "Изображение профиля для %s"
+
+#: 404.php:36
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском?"
+
+#: global-templates/navbar-collapse-bootstrap4.php:18
+#: global-templates/navbar-collapse-bootstrap5.php:18
+#: global-templates/navbar-offcanvas-bootstrap5.php:18
+msgid "Main Navigation"
+msgstr "Основная навигация"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr "Заказ магазина"
+
+#. translators: %s: Tags of current post
+#: inc/template-tags.php:117
+msgid "Tagged %s"
+msgstr "Метки: %s"
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "Posted by"
+msgstr "Автор:"
+
+#: inc/widgets.php:346
+msgid "Full sized footer widget with dynamic grid"
+msgstr "Полноразмерный виджет подвала с динамической сеткой"
+
+#: inc/widgets.php:333
+msgid "Full top widget with dynamic grid"
+msgstr "Верхний виджет с динамической сеткой"
+
+#: inc/widgets.php:320
+msgid "Full size canvas hero area for Bootstrap and other custom HTML markup"
+msgstr "Полноразмерная область canvas для Bootstrap и другой пользовательской HTML-разметки"
+
+#: inc/widgets.php:307
+msgid "Hero slider area. Place two or more widgets here and they will slide!"
+msgstr "Область основного слайдера. Разместите здесь два или больше виджетов, и они будут скользить!"
+
+#: inc/widgets.php:294
+msgid "Left sidebar widget area"
+msgstr "Область виджетов левой боковой панели"
+
+#: inc/widgets.php:281
+msgid "Right sidebar widget area"
+msgstr "Область виджетов правой боковой панели"
+
+#: global-templates/navbar-collapse-bootstrap4.php:35
+#: global-templates/navbar-collapse-bootstrap5.php:34
+msgid "Toggle navigation"
+msgstr "Переключить навигацию"
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Log in"
+msgstr "Войти"
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr "Так ваше имя будет отображаться в разделе \"Учётная запись\" и в отзывах"
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr "Отображаемое имя"
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "Если у вас есть купон, пожалуйста, введите его ниже."
+
+#. translators: Widget area title
+#: inc/widgets.php:331
+msgid "Top Full"
+msgstr "Верхний полноразмерный"
+
+#. translators: Widget area title
+#: inc/widgets.php:318
+msgid "Hero Canvas"
+msgstr "Главный canvas"
+
+#: inc/class-wp-bootstrap-navwalker.php:377
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr "Искать:"
+
+#: inc/pagination.php:56
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: searchform.php:25 searchform.php:28 woocommerce/product-searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr "Поиск по товарам&hellip;"
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:75 woocommerce/myaccount/orders.php:61
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s за %2$s единицу"
+msgstr[1] "%1$s за %2$s единицы"
+msgstr[2] "%1$s за %2$s единиц"
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr "Вы еще не настроили этот тип адреса."
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Следующие адреса будут использоваться по умолчанию на странице оформления заказа."
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr "Применить купон"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вам необходимо войти, чтобы оформить заказ."
+
+#. Template Name of the theme
+msgid "Right Sidebar Layout"
+msgstr "Разметка правой боковой панели"
+
+#: inc/customizer.php:177
+msgid "Set sidebar's default position. Can either be: right, left, both or none. Note: this can be overridden on individual pages."
+msgstr "Установите положение боковой панели по умолчанию. Она может быть справа, слева, с обеих сторон или отключена. Примечание: это можно переопределить для отдельных страниц."
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: inc/template-tags.php:308
+msgctxt "Next post link"
+msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgstr "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+
+#: inc/template-tags.php:305
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgstr "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+
+#. Template Name of the theme
+msgid "Left Sidebar Layout"
+msgstr "Разметка левой боковой панели"
+
+#. Template Name of the theme
+msgid "Left and Right Sidebar Layout"
+msgstr "Разметка левой и правой боковых панелей"
+
+#: woocommerce/myaccount/orders.php:100
+msgid "No order has been made yet."
+msgstr "Заказов ещё не создано."
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr "Далее"
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr "Назад"
+
+#: woocommerce/myaccount/my-orders.php:63 woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr "№"
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr "Последние заказы"
+
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr "Статус"
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr "Дата"
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr "Заказ"
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr "Сохранить"
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr "Повторите новый пароль"
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr "Новый пароль"
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr "Введите новый пароль ниже."
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Забыли свой пароль? Укажите свой Email или имя пользователя. Ссылку на создание нового пароля вы получите по электронной почте."
+
+#: woocommerce/myaccount/form-login.php:78
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:69
+#: woocommerce/myaccount/form-login.php:106
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr "Имя пользователя или email"
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr "Сохранить адрес"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr "Платёжный адрес"
+
+#: woocommerce/myaccount/form-edit-account.php:85
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Новый пароль (не заполняйте, чтобы оставить прежний)"
+
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Действующий пароль (не заполняйте, чтобы оставить прежний)"
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Password change"
+msgstr "Смена пароля"
+
+#: woocommerce/checkout/form-verify-email.php:49
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:85
+msgid "Email address"
+msgstr "Email"
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr "Фамилия"
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr "Имя"
+
+#: woocommerce/myaccount/downloads.php:34
+msgid "No downloads available yet."
+msgstr "Пока нет доступных загрузок."
+
+#: woocommerce/global/form-login.php:53 woocommerce/myaccount/form-login.php:56
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:31
+msgid "Login"
+msgstr "Войти"
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:92
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/global/form-login.php:33
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr "Имя пользователя или электронная почта"
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr "Обновить итог"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Поскольку ваш браузер не поддерживает JavaScript или в нем он отключен, просим убедиться в том, что вы нажали кнопку %1$sОбновить итог%2$s перед регистрацией заказа. Иначе, есть риск неправильного подсчета стоимости."
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Пожалуйста, введите детали выше, чтобы увидеть доступные методы оплаты."
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "К сожалению, в нашем магазине не предусмотрены способы оплаты для вашего местоположения. Пожалуйста, свяжитесь с нами, если вам нужна помощь или вы хотите использовать альтернативные варианты."
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr "Итого"
+
+#: woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr "Кол-во"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "Нажмите здесь, чтобы ввести код"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "У вас есть купон?"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:25
+msgid "Proceed to checkout"
+msgstr "Оформить заказ"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:144
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: woocommerce/cart/cart.php:167
+msgid "Update cart"
+msgstr "Обновить корзину"
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: woocommerce/cart/cart.php:162 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon:"
+msgstr "Купон:"
+
+#: woocommerce/cart/cart.php:107
+msgid "Available on backorder"
+msgstr "Доступно для предзаказа"
+
+#: woocommerce/myaccount/my-orders.php:17
+msgid "Total"
+msgstr "Всего"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:118
+msgid "Quantity"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:112
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:87
+#: woocommerce/checkout/form-pay.php:27
+msgid "Product"
+msgstr "Товар"
+
+#: woocommerce/cart/cart-empty.php:36
+msgid "Return to shop"
+msgstr "Вернуться в магазин"
+
+#. translators: Widget area title
+#: inc/widgets.php:292
+msgid "Left Sidebar"
+msgstr "Боковая панель слева"
+
+#. translators: Widget area title
+#: inc/widgets.php:279
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: inc/template-tags.php:301
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer.php:187
+msgid "No sidebar"
+msgstr "Без боковой панели"
+
+#: inc/customizer.php:186
+msgid "Left & Right sidebars"
+msgstr "Боковая панель слева и справа"
+
+#: inc/customizer.php:185
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/customizer.php:184
+msgid "Right sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:176
+msgid "Sidebar Positioning"
+msgstr "Позиционирование боковой панели"
+
+#: inc/customizer.php:123
+msgid "Full width container"
+msgstr "Контейнер во всю ширину"
+
+#: inc/customizer.php:122
+msgid "Fixed width container"
+msgstr "Контейнер с фиксированной шириной"
+
+#: inc/customizer.php:118
+msgid "Choose between Bootstrap's container and container-fluid"
+msgstr "Выберите между контейнером Bootstrap и container-fluid"
+
+#: inc/customizer.php:117
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: inc/customizer.php:69
+msgid "Container width and sidebar defaults"
+msgstr "Ширина контейнера и настройки боковых панелей по умолчанию"
+
+#: inc/customizer.php:67
+msgid "Theme Layout Settings"
+msgstr "Настройки разметки темы"
+
+#. Template Name of the theme
+msgid "Blank Page Template"
+msgstr "Шаблон пустой страницы"
+
+#. translators: Theme version
+#: inc/hooks.php:44
+msgid "Version: %s"
+msgstr "Версия: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:272
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. Template Name of the theme
+msgid "Empty Page Template"
+msgstr "Шаблон пустой страницы"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#. translators: %s: query term
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/template-tags.php:331
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: loop-templates/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: loop-templates/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: Link to WP admin new post page.
+#: loop-templates/content-none.php:30
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: loop-templates/content-none.php:18
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: Widget area title
+#: inc/widgets.php:344
+msgid "Footer Full"
+msgstr "Подвал полностью"
+
+#. translators: Widget area title
+#: inc/widgets.php:305
+msgid "Hero Slider"
+msgstr "Слайдер темы дня"
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: %s: Categories of current post
+#: inc/template-tags.php:102
+msgid "Posted in %s"
+msgstr "Опубликовано в %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:385
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "by"
+msgstr "от"
+
+#: inc/template-tags.php:41
+msgctxt "post date"
+msgid "Posted on"
+msgstr "Опубликовано в"
+
+#: inc/extras.php:247
+msgid "Read More..."
+msgstr "Читать дальше…"
+
+#: inc/setup.php:49
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: author.php:54
+msgid "Website"
+msgstr "Сайт"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. translators: 1: Theme name, 2: Theme author
+#: inc/hooks.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема %1$s от %2$s."
+
+#. translators: WordPress
+#: inc/hooks.php:33
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: inc/hooks.php:30
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/custom-comments.php:106
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/template-tags.php:253
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: inc/template-tags.php:247
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: inc/template-tags.php:243
+msgid "Comments navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:43
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:69
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Загляните в архивы по месяцам. %1$s"
+
+#: 404.php:46
+msgid "Most Used Categories"
+msgstr "Часто используемые рубрики"
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Мы не можем найти эту страницу."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://howarddc.com"
+msgstr "https://howarddc.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Howard Development &amp; Consulting"
+msgstr "Howard Development &amp; Consulting"
+
+#. Theme URI of the theme
+#: style.css inc/hooks.php:40
+#, gp-priority: low
+msgid "https://understrap.com"
+msgstr "https://understrap.com"

@@ -1,0 +1,57 @@
+2024-04-15 16:02:32 [error] cURL error 7: Failed to connect to 127.0.0.1 port 2083 after 0 ms: Connection refused
+
+ File: /home/o/olmekskygm/bs_contrmarketing_ru/public_html/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 369
+
+
+
+2024-04-15 16:02:32 [error] cURL error 7: Failed to connect to bs.contrmarketing.ru port 2083 after 33 ms: Connection refused
+
+ File: /home/o/olmekskygm/bs_contrmarketing_ru/public_html/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 369
+
+
+
+2024-04-15 16:02:32 [error] cURL error 7: Failed to connect to bs.contrmarketing.ru port 2083 after 0 ms: Connection refused
+
+ File: /home/o/olmekskygm/bs_contrmarketing_ru/public_html/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 369
+
+
+
+2024-04-15 16:03:53 [info] /home/o/olmekskygm/bs_contrmarketing_ru/public_html is offline. Skipping it.
+
+2024-04-15 16:03:53 [info] Начинаем регистрацию нового аккаунта
+
+2024-04-15 16:03:53 [info] Отправляем регистрацию на сервер Let's Encrypt™
+
+2024-04-15 16:03:55 [info] Отправляем подписанный запрос на https://acme-v02.api.letsencrypt.org/acme/new-acct
+
+2024-04-15 16:03:56 [error] Sorry, the Let's Encrypt™ server response (400) is unexpected. The complete server response is given below.
+
+2024-04-15 16:03:56 [error] <pre>Array
+(
+    [type] =&gt; urn:ietf:params:acme:error:badNonce
+    [detail] =&gt; JWS has an invalid anti-replay nonce: "fYM0lmBiR0k_-6jcdhNCRi_awk5bKrfDNrDfKNS6IJ9d48G2j-w"
+    [status] =&gt; 400
+)
+</pre>
+
+2024-04-15 16:03:56 [error] Closing the connection
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2024-04-15 16:03:56 [debug] Извините, возникла проблема при регистрации аккаунта. Пожалуйста, попробуйте снова. Ответ сервера Let's Encrypt™ приведен ниже.
+
+2024-04-15 16:03:56 [debug] <pre>Array
+(
+    [type] =&gt; urn:ietf:params:acme:error:badNonce
+    [detail] =&gt; JWS has an invalid anti-replay nonce: "fYM0lmBiR0k_-6jcdhNCRi_awk5bKrfDNrDfKNS6IJ9d48G2j-w"
+    [status] =&gt; 400
+)
+</pre>
+
+2024-04-15 16:03:56 [debug] Закрываем соединение
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
